@@ -1,2 +1,4 @@
-# y-data
-Y-DATA 2021-2022 courses
+Y-DATA is an intensive one-year career advancement program in data science that bridges the gap between short-term online courses and a full-time MSc-level program. Y-DATA is designed by the Yandex School of Data Science and taught at Tel Aviv University campus by top-notch experts from the academy and the industry. The program is localized to enhance the Israeli tech community and the global AI ecosystem.
+
+Courses:
+Study specific topics in data analysis and machine learning in short, dedicated courses (3‑7 weeks each), covering topics across all the range from ML foundations to advanced, state‑of‑the-art applications. Courses include Supervised and Unsupervised Learning, Deep Learning, Big Data, Reinforcement Learning and more. All courses are taught in an applicative and hands-on manner and include extensive practice.
